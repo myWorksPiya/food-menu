@@ -1,0 +1,24 @@
+{
+  "name": "food-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o main/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myWorksPiya/food-menu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myWorksPiya/food-menu/issues"
+  },
+  "homepage": "https://github.com/myWorksPiya/food-menu#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3"
+  }
+}
