@@ -3,5 +3,5 @@ A website using HTML and Tailwindcss
 
 Technologies Used
 
-## HTML
-## Tailwindcss
+**HTML**
+**Tailwindcss**
